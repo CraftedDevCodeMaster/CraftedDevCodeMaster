@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Master" />
-<h1 align="center">Hi 👋, I'm pravin</h1>
+<h1 align="center">Hi 👋, I'm Praveen</h1>
 <h3 align="center">A passionate full stack Java developer from India</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
