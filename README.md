@@ -8,7 +8,9 @@
 
 - 🌱 I’m currently learning **Spring security, React with spring Boot**
 
-- 📫 How to reach me **praveenkumarr200025@gmail.com**
+- 📫 How to reach me **praveenkumar.r201025@gmail.com**
+
+- portfolio **https://praveenkumardev.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
